@@ -1,0 +1,1 @@
+web: gunicorn selection_modeling.wsgi --log-file -
